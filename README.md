@@ -1,1 +1,1 @@
-# Snakes and Ladders textual version written in Python 3. 
+# Snakes and Ladders terminal based version written in Python 3.
